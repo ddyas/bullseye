@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bullseye/static/css/main.e6c13ad2.css",
-    "main.js": "/bullseye/static/js/main.57156957.js",
+    "main.js": "/bullseye/static/js/main.306c9ca9.js",
     "static/js/453.8566eefc.chunk.js": "/bullseye/static/js/453.8566eefc.chunk.js",
     "index.html": "/bullseye/index.html",
     "main.e6c13ad2.css.map": "/bullseye/static/css/main.e6c13ad2.css.map",
-    "main.57156957.js.map": "/bullseye/static/js/main.57156957.js.map",
+    "main.306c9ca9.js.map": "/bullseye/static/js/main.306c9ca9.js.map",
     "453.8566eefc.chunk.js.map": "/bullseye/static/js/453.8566eefc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.57156957.js"
+    "static/js/main.306c9ca9.js"
   ]
 }
